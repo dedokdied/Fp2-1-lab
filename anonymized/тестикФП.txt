@@ -1,0 +1,11 @@
+=== Секретный отчёт ===
+Контакт: [EMAIL]
+Дубликат: [EMAIL]
+Второй: [EMAIL]
+Телефон: [PHONE]
+Ссылка: [URL]
+Серверы: host2 и host3
+password=[REDACTED]
+password:[REDACTED]
+token=[REDACTED]
+Копия: [EMAIL]
